@@ -6,5 +6,10 @@
             "display_name": "Universe",
             "compatible_versions": ["1.17"]
         },
+        {
+            "name": "Pixxi-Pack",
+            "display_name": "Pixxi Pack",
+            "compatible_versions": ["1.17"]
+        },
     ]
 }
