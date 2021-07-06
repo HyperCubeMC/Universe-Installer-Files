@@ -1,15 +1,15 @@
 {
-    "game_versions": ["1.17"],
+    "game_versions": ["1.17.1"],
     "editions": [
         {
             "name": "Universe",
             "display_name": "Universe",
-            "compatible_versions": ["1.17"]
+            "compatible_versions": ["1.17.1"]
         },
         {
             "name": "Pixxi-Pack",
             "display_name": "Pixxi Pack",
-            "compatible_versions": ["1.17"]
+            "compatible_versions": ["1.17.1"]
         },
     ]
 }
