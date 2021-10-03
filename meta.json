@@ -7,6 +7,11 @@
             "compatible_versions": ["1.17.1"]
         },
         {
+            "name": "Universe-Modded",
+            "display_name": "Universe with Modded Content",
+            "compatible_versions": ["1.17.1"]
+        },
+        {
             "name": "Pixxi-Pack",
             "display_name": "Pixxi Pack",
             "compatible_versions": ["1.17.1"]
