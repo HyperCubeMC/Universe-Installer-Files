@@ -4,16 +4,19 @@
         {
             "name": "Universe",
             "display_name": "Universe",
+            "default_install_dir": ".minecraft",
             "compatible_versions": ["1.17.1"]
         },
         {
             "name": "Universe-Modded",
             "display_name": "Universe with Modded Content",
+            "default_install_dir": ".minecraft/modded",
             "compatible_versions": ["1.17.1"]
         },
         {
             "name": "Pixxi-Pack",
             "display_name": "Pixxi Pack",
+            "default_install_dir": ".minecraft",
             "compatible_versions": ["1.17.1"]
         },
     ]
