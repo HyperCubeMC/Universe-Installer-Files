@@ -34,7 +34,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","file/BetterVanillaBuildingV2.64.zip"]
+resourcePacks:["vanilla","Fabric Mods","continuity/glass_pane_culling_fix","file/BetterVanillaBuildingV2.64.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
