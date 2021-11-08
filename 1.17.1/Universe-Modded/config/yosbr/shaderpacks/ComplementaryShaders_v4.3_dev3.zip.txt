@@ -1,15 +1,3 @@
 #This file stores the shaderpack configuration for the shaderpack ComplementaryShaders_v4.3_dev3.zip
 #Sat Nov 06 14:11:26 CDT 2021
-shadowDistance=256.0
-COLORED_SHADOWS=true
-AO_QUALITY=2
-LIGHT_SHAFT_QUALITY=2
-PROJECTED_CAUSTICS=true
-NOISY_TEXTURES=true
-COLORED_LIGHT_DEFINE=true
-GENERATED_NORMALS=true
-WATER_ABSORPTION=true
-DOF_IS_ON=true
-SPECULAR_SKY_REF=true
-WATER_REFRACT=true
-<profile>=profile.EXTREME
+<profile>=profile.HIGH
