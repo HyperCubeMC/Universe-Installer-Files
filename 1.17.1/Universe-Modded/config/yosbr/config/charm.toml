@@ -1,15 +1,15 @@
 #Aerial Affinity is a boots enchantment that increases mining rate when not on the ground.
 "AerialAffinityEnchantment Enabled" = true
 #Removes minimum and maximum XP costs on the anvil. Anvils are also less likely to break.
-"AnvilImprovements Enabled" = true
+"AnvilImprovements Enabled" = false
 #Lightweight armor is invisible and does not increase mob awareness when drinking Potion of Invisibility.
-"ArmorInvisibility Enabled" = true
+"ArmorInvisibility Enabled" = false
 #Storage for maps that automatically updates the displayed map as you explore.
 "Atlases Enabled" = true
 #Refills your hotbar from your inventory.
-"AutoRestock Enabled" = true
+"AutoRestock Enabled" = false
 #Unlocks all vanilla recipes.
-"AutomaticRecipeUnlock Enabled" = true
+"AutomaticRecipeUnlock Enabled" = false
 #Azalea wood is obtainable from naturally occurring azalea trees or by growing azalea saplings.
 "AzaleaWood Enabled" = true
 #Right-click a bat with a bucket to capture it. Right-click again to release it and locate entities around you.
@@ -33,7 +33,7 @@
 #Scroll the mouse while hovering over a bundle to change the order of its contents.
 "BundleSorting Enabled" = true
 #Campfires no longer damage mobs.
-"CampfiresNoDamage Enabled" = true
+"CampfiresNoDamage Enabled" = false
 #Casks let you combine up to 64 potions, keeping an average of duration. Use glass bottles to extract home brew from the cask.
 "Casks Enabled" = true
 #Cave spiders have a chance to drop cobwebs.
@@ -132,21 +132,21 @@
 #A block that acts like sand but is powered like a block of redstone.
 "RedstoneSand Enabled" = true
 #When any action would cause a villager to become a nitwit, it becomes an unemployed villager instead.
-"RemoveNitwits Enabled" = true
+"RemoveNitwits Enabled" = false
 #Removes the potion enchantment glint so you can see what the potion color is.
-"RemovePotionGlint Enabled" = true
+"RemovePotionGlint Enabled" = false
 #Removes the dark outer overlay when zooming in with the spyglass, giving you the full view.
-"RemoveSpyglassScope Enabled" = true
+"RemoveSpyglassScope Enabled" = false
 #Shows the contents of a Shulker Box on hover-over.
 "ShulkerBoxTooltips Enabled" = true
 #Increases snow layers in cold biomes during thunderstorms.
 "SnowStorms Enabled" = true
 #Allows enchanted books to stack.
-"StackableEnchantedBooks Enabled" = true
+"StackableEnchantedBooks Enabled" = false
 #Allows potions to stack.
-"StackablePotions Enabled" = true
+"StackablePotions Enabled" = false
 #Allows stews to stack.
-"StackableStews Enabled" = true
+"StackableStews Enabled" = false
 #A Storage crate has the equivalent capacity of a double-chest for a single item or block type.
 "StorageCrates Enabled" = true
 #Shows the custom name of a storage block as a floating label when the player is sneaking.
@@ -156,9 +156,9 @@
 #Tamed animals do not take direct damage from players.
 "TamedAnimalsNoDamage Enabled" = true
 #Items will be held in the Totem of Preserving if you die.
-"TotemOfPreserving Enabled" = true
+"TotemOfPreserving Enabled" = false
 #As long as a Totem of Undying is in your inventory, it will be consumed to protect you from death.
-"UseTotemFromInventory Enabled" = true
+"UseTotemFromInventory Enabled" = false
 #Barrels available in all types of vanilla wood.
 "VariantBarrels Enabled" = true
 #Variant bars crafted from vanilla metal ingots.
