@@ -8,6 +8,12 @@
             "compatible_versions": ["1.17.1", "1.18.1"]
         },
         {
+            "name": "Universe-WithWorldMap",
+            "display_name": "Universe with World Map",
+            "default_install_dir": ".minecraft",
+            "compatible_versions": ["1.18.1"]
+        },
+        {
             "name": "Universe-Modded",
             "display_name": "Universe with Modded Content",
             "default_install_dir": ".minecraft/modded",
