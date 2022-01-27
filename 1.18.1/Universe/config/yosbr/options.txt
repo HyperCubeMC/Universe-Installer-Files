@@ -36,7 +36,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","continuity/glass_pane_culling_fix","file/BetterVanillaBuildingV2.66.1.zip","file/BvBOverlaysV1.0.zip"]
+resourcePacks:["vanilla","Fabric Mods","continuity/glass_pane_culling_fix","file/BetterVanillaBuildingV2.68.zip","file/BvBOverlaysV1.0.zip"]
 incompatibleResourcePacks:[]
 lastServer:localhost:25558
 lang:en_us
@@ -112,6 +112,7 @@ key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
+key_key.isometric-renders.area_select:key.keyboard.unknown
 key_key.minecraftcapes.gui:key.keyboard.j
 key_key.okzoomer.zoom:key.keyboard.c
 key_key.okzoomer.decrease_zoom:key.keyboard.unknown
