@@ -5,25 +5,29 @@
             "name": "Universe",
             "display_name": "Universe",
             "default_install_dir": ".minecraft",
-            "compatible_versions": ["1.17.1", "1.18.1"]
+            "compatible_versions": ["1.17.1", "1.18.1"],
+            "clear_directories": ["config/yosbr"]
         },
         {
             "name": "Universe-Extras",
             "display_name": "Universe Extras",
             "default_install_dir": ".minecraft",
-            "compatible_versions": ["1.18.1"]
+            "compatible_versions": ["1.18.1"],
+            "clear_directories": ["config/yosbr"]
         },
         {
             "name": "Universe-Modded",
             "display_name": "Universe with Modded Content",
             "default_install_dir": ".minecraft/modded",
-            "compatible_versions": ["1.17.1"]
+            "compatible_versions": ["1.17.1"],
+            "clear_directories": ["config/yosbr"]
         },
         {
             "name": "Pixxi-Pack",
             "display_name": "Pixxi Pack",
             "default_install_dir": ".minecraft",
-            "compatible_versions": ["1.17.1"]
+            "compatible_versions": ["1.17.1"],
+            "clear_directories": ["config/yosbr"]
         },
     ]
 }
