@@ -112,7 +112,6 @@ key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
-key_key.isometric-renders.area_select:key.keyboard.unknown
 key_key.minecraftcapes.gui:key.keyboard.j
 key_key.okzoomer.zoom:key.keyboard.c
 key_key.okzoomer.decrease_zoom:key.keyboard.unknown
