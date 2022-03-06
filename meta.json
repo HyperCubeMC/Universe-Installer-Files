@@ -1,18 +1,18 @@
 {
-    "game_versions": ["1.17.1", "1.18.1"],
+    "game_versions": ["1.17.1", "1.18.2"],
     "editions": [
         {
             "name": "Universe",
             "display_name": "Universe",
             "default_install_dir": ".minecraft",
-            "compatible_versions": ["1.17.1", "1.18.1"],
+            "compatible_versions": ["1.17.1", "1.18.2"],
             "clear_directories": ["config/yosbr"]
         },
         {
             "name": "Universe-Extras",
             "display_name": "Universe Extras",
             "default_install_dir": ".minecraft",
-            "compatible_versions": ["1.18.1"],
+            "compatible_versions": ["1.18.2"],
             "clear_directories": ["config/yosbr"]
         },
         {
