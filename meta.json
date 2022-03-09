@@ -1,11 +1,11 @@
 {
-    "game_versions": ["1.17.1", "1.18.2"],
+    "game_versions": ["1.18.2"],
     "editions": [
         {
             "name": "Universe",
             "display_name": "Universe",
             "default_install_dir": ".minecraft",
-            "compatible_versions": ["1.17.1", "1.18.2"],
+            "compatible_versions": ["1.18.2"],
             "clear_directories": ["config/yosbr"]
         },
         {
@@ -14,20 +14,6 @@
             "default_install_dir": ".minecraft",
             "compatible_versions": ["1.18.2"],
             "clear_directories": ["config/yosbr"]
-        },
-        {
-            "name": "Universe-Modded",
-            "display_name": "Universe with Modded Content",
-            "default_install_dir": ".minecraft/modded",
-            "compatible_versions": ["1.17.1"],
-            "clear_directories": ["config/yosbr"]
-        },
-        {
-            "name": "Pixxi-Pack",
-            "display_name": "Pixxi Pack",
-            "default_install_dir": ".minecraft",
-            "compatible_versions": ["1.17.1"],
-            "clear_directories": ["config/yosbr"]
-        },
+        }
     ]
 }
