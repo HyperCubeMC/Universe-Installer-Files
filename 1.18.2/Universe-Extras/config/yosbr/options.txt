@@ -36,7 +36,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","continuity/glass_pane_culling_fix","file/BetterVanillaBuildingV2.68.zip","file/BvBOverlaysV1.0.zip"]
+resourcePacks:["vanilla","Fabric Mods","continuity/glass_pane_culling_fix","file/BetterVanillaBuildingV2.72.zip","file/BvBOverlaysV1.0.zip"]
 incompatibleResourcePacks:[]
 lastServer:localhost:25558
 lang:en_us
