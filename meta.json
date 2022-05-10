@@ -1,4 +1,5 @@
 {
+    "default_jvm_args": "-Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
     "game_versions": ["1.18.2"],
     "editions": [
         {
@@ -7,7 +8,7 @@
             "default_install_dir": ".minecraft",
             "compatible_versions": ["1.18.2"],
             "clear_directories": ["config/yosbr"],
-            "default_jvm_args": ""
+            "jvm_args_override": ""
         },
         {
             "name": "Universe-Extras",
@@ -15,7 +16,7 @@
             "default_install_dir": ".minecraft",
             "compatible_versions": ["1.18.2"],
             "clear_directories": ["config/yosbr"],
-            "default_jvm_args": ""
+            "jvm_args_override": ""
         }
     ]
 }
