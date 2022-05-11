@@ -5,18 +5,20 @@
         {
             "name": "Universe",
             "display_name": "Universe",
+            "inherits_from": "",
             "default_install_dir": ".minecraft",
+            "jvm_args_override": "",
             "compatible_versions": ["1.18.2"],
-            "clear_directories": ["config/yosbr"],
-            "jvm_args_override": ""
+            "clear_directories": ["config/yosbr"]
         },
         {
             "name": "Universe-Extras",
             "display_name": "Universe Extras",
+            "inherits_from": "Universe",
             "default_install_dir": ".minecraft",
+            "jvm_args_override": "",
             "compatible_versions": ["1.18.2"],
             "clear_directories": ["config/yosbr"],
-            "jvm_args_override": ""
         }
     ]
 }
