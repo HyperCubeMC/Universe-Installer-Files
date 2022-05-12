@@ -19,6 +19,15 @@
             "jvm_args_override": "",
             "compatible_versions": ["1.18.2"],
             "clear_directories": ["config/yosbr"],
+        },
+        {
+            "name": "Universe-Modded",
+            "display_name": "Universe Modded",
+            "inherits_from": "Universe-Extras",
+            "default_install_dir": ".minecraft",
+            "jvm_args_override": "-Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
+            "compatible_versions": ["1.18.2"],
+            "clear_directories": ["config/yosbr"],
         }
     ]
 }
