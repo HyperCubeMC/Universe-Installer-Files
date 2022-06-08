@@ -17,7 +17,7 @@
             "inherits_from": "Universe",
             "default_install_dir": ".minecraft",
             "jvm_args_override": "",
-            "compatible_versions": ["1.18.2"],
+            "compatible_versions": ["1.18.2", "1.19"],
             "clear_directories": ["config/yosbr"],
         },
         {
