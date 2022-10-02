@@ -1,0 +1,24 @@
+{
+	// End Rod version without the end portion. [Default: true]
+	"EndlessRod": true,
+	// Just another Slime block. Won't connect to either Slime nor Honey. [Default: true]
+	"Slimier": false,
+	// A trapdoor made of packed ice. [Default: true]
+	"IceTrapdoor": false,
+	// Set of invisible blocks that block fluids, entities or everything, depending on the one used. [Default: true]
+	"Invisible": false,
+	// Torch that can be placed underwater. [Default: true]
+	"UnderwaterTorch": false,
+	// Campfire that can be used underwater. [Default: true]
+	"UnderwaterCampfire": false,
+	// Set of white sand and their derivatives. [Default: true]
+	"WhiteSand": true,
+	// Set of black sand and their derivatives. [Default: true]
+	"BlackSand": true,
+	// Set of yellow sand and their derivatives. [Default: true]
+	"YellowSand": true,
+	// Set of orange sand and their derivatives. [Default: true]
+	"OrangeSand": true,
+	// Slabs, Stairs, Walls and Panes of Tinted Glass. [Default: true]
+	"ExtraTintedGlass": false
+}

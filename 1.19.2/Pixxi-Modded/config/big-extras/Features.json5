@@ -1,0 +1,4 @@
+{
+	// Extra level 4 buff that allows flying in survival. [Default: true]
+	"BeaconFly": false
+}

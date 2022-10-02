@@ -1,0 +1,15 @@
+{
+	// Wireless version of a Piston. [Default: true]
+	"Mover": false,
+	// Distance a block can be moved. [min = 1, max = 255] [Default: 25]
+	"Range": 25,
+	// Distance from Mover a target block can be. [min = 1, max = 255] [Default: 10]
+	"Distance": 10,
+	// Blocks in this list can't be moved with Mover. [Default: minecraft:bedrock]
+	"Blacklist": [
+		"minecraft:bedrock",
+		"minecraft:bedrock",
+		"minecraft:bedrock",
+		"minecraft:bedrock"
+	]
+}

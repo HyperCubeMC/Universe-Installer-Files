@@ -1,0 +1,22 @@
+{
+	// Adds Wall Lanterns variation. [Default: true]
+	"WallLanterns": false,
+	// Adds a Wall support to hang stuff. [Default: true]
+	"WallHanger": false,
+	// Adds an end to the face of a chain block connected to a full block. [Default: true]
+	"ChainTopModel": true,
+	// Allows Lanterns to be hanged from another Lantern.  [Default: true]
+	"HangLanternsOnLanterns": false,
+	// Makes Mob Spawners drop if mined with a Silk Touch Pickaxe. [Default: true]
+	"SilkSpawner": false,
+	// Makes Budding Amethysts drop if mined with a Silk Touch Pickaxe. [Default: true]
+	"SilkBuddingAmethyst": true,
+	// Makes Reinforced Deepslate drop if mined with a Silk Touch Pickaxe. [Default: true]
+	"SilkReinforcedDeepslate": false,
+	// Makes Reinforced Deepslate faster to mine. [Default: false]
+	"EasierReinforcedDeepslate": false,
+	// Allows to insta-mine Deepslate with an Efficiency 5 Netherite Pickaxe combine with Haste 2.  [Default: false]
+	"InstaMineDeepslate": false,
+	// Makes Copper blocks oxidize faster if touching water. [Default: true]
+	"WaterOxidation": true
+}

@@ -1,0 +1,6 @@
+{
+	// Improved version of Minecraft Bow. [Default: true]
+	"StrongBow": false,
+	// Improved version of Minecraft Crossbow. [Default: true]
+	"StrongCrossbow": false
+}

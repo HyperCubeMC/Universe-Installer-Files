@@ -1,0 +1,12 @@
+{
+	// Adds a Frienship Orb that allows to turn hostile mobs into docile mobs. [Default: true]
+	"FriendshipOrb": false,
+	// Adds a Spawner Upgrade that allows Spawners to work without a player nearby. [Default: true]
+	"SpawnerUpgrade": false,
+	// Adds Copper Tools. [Default: true]
+	"CopperTools": true,
+	// Adds Wool Shoes that prevent player from making step/fall sounds. [Default: true]
+	"WoolShoes": false,
+	// Allows to change the icon name color in an Anvil. [Default: true]
+	"ItemNameColoring": true
+}

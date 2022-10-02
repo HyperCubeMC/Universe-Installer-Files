@@ -1,0 +1,24 @@
+{
+	// Adds a weapon enchantment that prevents Creepers from exploding during a short period of time. [Default: true]
+	"CreeperDefuser": false,
+	// Allows the placing of Lamps above Beacons. [Default: true]
+	"LampsOnBeacons": true,
+	// Adds 4 more levels to the beacon base. [Default: true]
+	"ExtraBeaconBaseSize": true,
+	// Makes Beacon apply effects from 0 to world height. [Default: true]
+	"BeaconBuffIgnoreY": true,
+	// Makes Ender Dragon always drop the same experience as the first battle. [Default: true]
+	"EnderDragonAlwaysMaxXP": true,
+	// Forces the potions effects to be added back to the player when traveling leaving The End. [Default: true]
+	"PotionsFix": true,
+	// Disables Bat spawning. [Default: false]
+	"PreventBatSpawn": false,
+	// Makes water sources turn into Ice if touching a Blue Ice block. [Default: true]
+	"WaterToIce": true,
+	// Makes the player collect experience orbs faster.  [Default: true]
+	"FastExperienceCollection": true,
+	// Disable the fire overlay when the player has fire resistance.  [Default: true]
+	"DisablePlayerFireRender": true,
+	// Adds a waterfall effect when flowing water falls on still water (Client only).  [Default: true]
+	"WaterfallEffect": false
+}

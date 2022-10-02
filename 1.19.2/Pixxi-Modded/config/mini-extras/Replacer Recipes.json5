@@ -1,0 +1,16 @@
+{
+	// Replace Stairs recipes. [Default: true]
+	"BetterStairs": true,
+	// Replace Trapdoors recipes. [Default: true]
+	"BetterTrapdoors": true,
+	// Replace Wood recipes. [Default: true]
+	"BetterWood": true,
+	// New Stairs output amount. [Default: 6]
+	"BetterStairsAmount": 6,
+	// New Trapdoors output amount. [Default: 6]
+	"BetterTrapdoorsAmount": 6,
+	// New Wood output amount. [Default: 4]
+	"BetterWoodAmount": 4,
+	// List of mods to be ignore when replacing recipes.
+	"BlacklistedMods": []
+}

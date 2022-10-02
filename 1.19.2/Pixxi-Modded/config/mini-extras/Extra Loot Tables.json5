@@ -1,0 +1,22 @@
+{
+	// Adds Quartz to Blaze loot table. [Default: false]
+	"BlazeDropsQuartz": true,
+	// Adds Clay to Drowned loot table. [Default: false]
+	"DrownedDropsClay": true,
+	// Adds Lapis Lazuli to Guardian loot table. [Default: false]
+	"GuardianDropsLapis": false,
+	// Adds Sand to Husk loot table. [Default: false]
+	"HuskDropsSand": true,
+	// Adds extra Shulker Shell to Shulker loot table. [Default: false]
+	"ShulkerDropsExtraShell": true,
+	// Adds Coral to Tropical Fish loot table. [Default: false]
+	"TropicalFishDropsCoral": true,
+	// Adds Soul Sand to Wither Skeleton loot table. [Default: false]
+	"WitherSkeletonDropsSoulSand": false,
+	// Adds Gravel to Zombie loot table. [Default: false]
+	"ZombieDropsGravel": false,
+	// Adds Diamonds to Ender Dragon loot table. [Default: false]
+	"EnderDragonDropsDiamonds": false,
+	// Adds Dragon Egg to Ender Dragon loot table. [Default: false]
+	"EnderDragonDropsEgg": false
+}
