@@ -37,6 +37,15 @@
             "jvm_args_override": "-Xmx3G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
             "compatible_versions": ["1.19.2"],
             "clear_directories": ["config/yosbr"],
+        },
+        {
+            "name": "Walter-Modded",
+            "display_name": "Walter Modded",
+            "inherits_from": "Universe",
+            "default_install_dir": ".minecraft",
+            "jvm_args_override": "-Xmx3G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
+            "compatible_versions": ["1.19.2"],
+            "clear_directories": ["config/yosbr"],
         }
     ]
 }
