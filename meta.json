@@ -18,7 +18,7 @@
             "default_install_dir": ".minecraft",
             "jvm_args_override": "",
             "compatible_versions": ["1.18.2", "1.19", "1.19.2", "1.19.3"],
-            "clear_directories": ["config/yosbr"],
+            "clear_directories": ["config/yosbr"]
         },
         {
             "name": "Universe-Modded",
@@ -27,7 +27,7 @@
             "default_install_dir": ".minecraft",
             "jvm_args_override": "-Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
             "compatible_versions": ["1.18.2"],
-            "clear_directories": ["config/yosbr"],
+            "clear_directories": ["config/yosbr"]
         },
         {
             "name": "Pixxi-Modded",
@@ -36,7 +36,16 @@
             "default_install_dir": ".minecraft",
             "jvm_args_override": "-Xmx3G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
             "compatible_versions": ["1.19.2"],
-            "clear_directories": ["config/yosbr"],
+            "clear_directories": ["config/yosbr"]
+        },
+        {
+            "name": "Pixxi-Modded-New",
+            "display_name": "Pixxi Modded New",
+            "inherits_from": "Universe-Extras",
+            "default_install_dir": ".minecraft",
+            "jvm_args_override": "-Xmx3G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
+            "compatible_versions": ["1.19.2"],
+            "clear_directories": ["config/yosbr"]
         },
         {
             "name": "Walter-Modded",
@@ -45,7 +54,7 @@
             "default_install_dir": ".minecraft",
             "jvm_args_override": "-Xmx3G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
             "compatible_versions": ["1.19.2"],
-            "clear_directories": ["config/yosbr"],
+            "clear_directories": ["config/yosbr"]
         }
     ]
 }
