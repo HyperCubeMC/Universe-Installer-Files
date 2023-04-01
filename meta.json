@@ -1,6 +1,6 @@
 {
     "default_jvm_args": "-Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
-    "game_versions": ["1.18.2", "1.19", "1.19.2", "1.19.3"],
+    "game_versions": ["1.18.2", "1.19", "1.19.2", "1.19.3", "1.19.4"],
     "editions": [
         {
             "name": "Universe",
@@ -8,7 +8,7 @@
             "inherits_from": "",
             "default_install_dir": ".minecraft",
             "jvm_args_override": "",
-            "compatible_versions": ["1.18.2", "1.19", "1.19.2", "1.19.3"],
+            "compatible_versions": ["1.18.2", "1.19", "1.19.2", "1.19.3", "1.19.4"],
             "clear_directories": ["config/yosbr"]
         },
         {
@@ -17,7 +17,7 @@
             "inherits_from": "Universe",
             "default_install_dir": ".minecraft",
             "jvm_args_override": "",
-            "compatible_versions": ["1.18.2", "1.19", "1.19.2", "1.19.3"],
+            "compatible_versions": ["1.18.2", "1.19", "1.19.2", "1.19.3", "1.19.4"],
             "clear_directories": ["config/yosbr"]
         },
         {
