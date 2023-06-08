@@ -1,7 +1,16 @@
 {
     "default_jvm_args": "-Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
-    "game_versions": ["1.18.2", "1.19", "1.19.2", "1.19.3", "1.19.4"],
+    "game_versions": ["1.18.2", "1.19", "1.19.2", "1.19.3", "1.19.4", "1.20"],
     "editions": [
+        {
+            "name": "Universe-Lite-1.20",
+            "display_name": "Universe Lite (1.20 only)",
+            "inherits_from": "",
+            "default_install_dir": ".minecraft",
+            "jvm_args_override": "",
+            "compatible_versions": ["1.20"],
+            "clear_directories": ["config/yosbr"]
+        },
         {
             "name": "Universe",
             "display_name": "Universe",
