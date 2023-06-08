@@ -12,6 +12,15 @@
             "clear_directories": ["config/yosbr"]
         },
         {
+            "name": "Universe-Extras-Lite-1.20",
+            "display_name": "Universe Extras Lite (1.20 only)",
+            "inherits_from": "Universe-Lite-1.20",
+            "default_install_dir": ".minecraft",
+            "jvm_args_override": "",
+            "compatible_versions": ["1.20"],
+            "clear_directories": ["config/yosbr"]
+        },
+        {
             "name": "Universe",
             "display_name": "Universe",
             "inherits_from": "",
